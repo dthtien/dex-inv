@@ -13,3 +13,7 @@ Simply fork the repository, provide your own Solana address, and begin collectin
 * Provably fair results
 
 * Bonuses
+
+## Additional Pages
+
+A simple static product page is available at `public/product.html`. Open this file in your browser to see a responsive landing page example.
